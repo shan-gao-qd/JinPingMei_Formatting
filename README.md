@@ -1,9 +1,8 @@
 # JinPingMei Reformatting
 
-The sixteenth century novel 金瓶梅，*Jin Ping Mei*, also know in English as *The Plum in the Golden Vase*, is one of the greatest of Chinese novels, and an important work in world literature "with the possible exception of The Tale of Genji (c. 1010) and Don Quixote (1605, 1615), there is no earlier work of prose fiction of equal sophistication in world literature." But despite its artistic achievements and its household name, due to various reason it is underrepresented in many ways.
+The sixteenth century novel 金瓶梅，*Jin Ping Mei*, also know in English as *The Plum in the Golden Vase*, is one of the greatest of Chinese novels, and an important work in world literature "with the possible exception of The Tale of Genji (c. 1010) and Don Quixote (1605, 1615), there is no earlier work of prose fiction of equal sophistication in world literature." But despite its artistic achievements and its household name, due to various reason it is underrepresented in many ways. 
 
-For a reader like me whose experience with written Chinese language is primarily with Simplified Chinese, there are some awkwardness:
-
+For example, if a reader like me, whose experience with written Chinese language is primarily with Simplified Chinese, decide to read it, there will be some awkwardness:
 
 1.  There is no uncensored Simplified Chinese publication of the book. They are also seldomly reprinted.
 
